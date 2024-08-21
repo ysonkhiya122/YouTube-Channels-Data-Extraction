@@ -1,4 +1,3 @@
-```markdown
 # YouTube Channel Data Analysis
 
 ## Project Overview
@@ -201,6 +200,6 @@ def append_csv_to_sheet(csv_folder_path, sheet):
 
 ## Conclusion
 This document outlines the procedures and code snippets for each phase of the project, providing clear guidance on data extraction, cleaning, processing, and integration. The outcome is a comprehensive dataset that can be used for further analysis.
-```
+
 
 This `README.md` file provides a clear and structured overview of the project, detailing the objectives, procedures, and code snippets required for each step of the YouTube Channel Data Analysis.
