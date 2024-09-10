@@ -166,4 +166,3 @@ Additional fields that may be useful for further analysis.
 By creating these calculated fields in Looker Studio, you can unlock deeper insights into the performance of YouTube channels, track growth trends, and compare channels on metrics like engagement, performance, and region. These fields will enable you to generate detailed and meaningful visualizations to inform decision-making.
 
 This documentation can be referenced when setting up Looker Studio reports and serves as a guide for calculated field creation and data transformation.
-```
